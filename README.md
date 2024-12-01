@@ -3,6 +3,7 @@
 ## PROJECT OVERVIEW
 
 Over 2.2 billion people worldwide face challenges with vision impairment, limiting their ability to navigate spaces, read text, or identify objects, which impacts their independence and access to information. 
+
 **Envision** aims to bridge this gap by leveraging AI technologies like LangChain, Generative AI, and Streamlit to provide real-time, voice-assisted image interpretations, enabling visually impaired individuals to navigate their surroundings and perform everyday tasks with greater ease.
 
 <br />
